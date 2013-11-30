@@ -27,7 +27,7 @@ $txt['pmx_block_panels'] = array(
 	'right' => 'Panel derecho', 
 	'bottom' => 'Panel inferior',
 	'foot' => 'Panel de pie',
-	'pages' => '',
+	'pages' => 'Páginas',
 );
 
 // do not change the array keys !
